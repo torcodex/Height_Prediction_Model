@@ -3,7 +3,7 @@
 This project uses Linear Regression to predict a person’s height (cm) based on their weight (kg) using a CSV dataset.
 
 # Steps Explained Simply
-#1️. Import Required Libraries
+*1️. Import Required Libraries
 
 pandas, numpy → handle data
 
